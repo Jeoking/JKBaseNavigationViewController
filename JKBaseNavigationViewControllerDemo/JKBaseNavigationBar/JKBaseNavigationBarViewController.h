@@ -2,8 +2,8 @@
 //  BaseViewController.h
 //  ZY-Houserkeeper
 //
-//  Created by zallfuhui_zf on 17/6/27.
-//  Copyright © 2017年 zallsoon-zf. All rights reserved.
+//  Created by jk on 17/6/27.
+//  Copyright © 2017年 jk. All rights reserved.
 //
 #import <UIKit/UIKit.h>
 
